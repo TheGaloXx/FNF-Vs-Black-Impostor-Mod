@@ -14,7 +14,6 @@
  - [Itch.io](https://ninja-muffin24.itch.io/funkin)
  - [Source Code](https://github.com/ninjamuffin99/Funkin)
 
-This game was made with love to Newgrounds and its community. Extra love to Tom Fulp.
 ### Kade Engine
 - [KadeDeveloper](https://twitter.com/KadeDeveloper) - Maintainer and lead programmer
 - [The contributors](https://github.com/KadeDev/Kade-Engine/graphs/contributors)
