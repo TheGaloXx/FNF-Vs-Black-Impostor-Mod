@@ -1,5 +1,5 @@
 
-![Kade Engine logo](assets/preload/images/KadeEngineLogo.png)
+![Kade Engine logo](KadeEngineLogo.png.png)
 
 # Built with [Kade Engine 1.5.4](https://github.com/KadeDev/Kade-Engine)
 
