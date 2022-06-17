@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="voidrojo.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ROJO0000" x="0" y="0" width="339" height="357" frameX="0" frameY="0" frameWidth="345" frameHeight="359"/>
+	<SubTexture name="ROJO0001" x="0" y="0" width="339" height="357" frameX="0" frameY="0" frameWidth="345" frameHeight="359"/>
+	<SubTexture name="ROJO0002" x="339" y="0" width="341" height="358" frameX="-1" frameY="-1" frameWidth="345" frameHeight="359"/>
+	<SubTexture name="ROJO0003" x="339" y="0" width="341" height="358" frameX="-1" frameY="-1" frameWidth="345" frameHeight="359"/>
+	<SubTexture name="ROJO0004" x="680" y="0" width="343" height="356" frameX="-2" frameY="-1" frameWidth="345" frameHeight="359"/>
+	<SubTexture name="ROJO0005" x="680" y="0" width="343" height="356" frameX="-2" frameY="-1" frameWidth="345" frameHeight="359"/>
+</TextureAtlas>

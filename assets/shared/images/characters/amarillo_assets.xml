@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="amarillo_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="amarillo down0000" x="0" y="0" width="563" height="288" frameX="0" frameY="-39" frameWidth="640" frameHeight="329"/>
+	<SubTexture name="amarillo down0001" x="563" y="0" width="566" height="299" frameX="-4" frameY="-29" frameWidth="640" frameHeight="329"/>
+	<SubTexture name="amarillo down0002" x="1129" y="0" width="559" height="308" frameX="-7" frameY="-20" frameWidth="640" frameHeight="329"/>
+	<SubTexture name="amarillo down0003" x="1688" y="0" width="569" height="318" frameX="-10" frameY="-10" frameWidth="640" frameHeight="329"/>
+	<SubTexture name="amarillo down0004" x="2257" y="0" width="618" height="329" frameX="-13" frameY="0" frameWidth="640" frameHeight="329"/>
+	<SubTexture name="amarillo down0005" x="2875" y="0" width="627" height="329" frameX="-13" frameY="0" frameWidth="640" frameHeight="329"/>
+	<SubTexture name="amarillo down0006" x="0" y="329" width="618" height="329" frameX="-13" frameY="0" frameWidth="640" frameHeight="329"/>
+	<SubTexture name="amarillo down0007" x="618" y="329" width="618" height="329" frameX="-13" frameY="0" frameWidth="640" frameHeight="329"/>
+	<SubTexture name="amarillo down0008" x="1236" y="329" width="618" height="329" frameX="-13" frameY="0" frameWidth="640" frameHeight="329"/>
+	<SubTexture name="amarillo down0009" x="1854" y="329" width="618" height="329" frameX="-13" frameY="0" frameWidth="640" frameHeight="329"/>
+	<SubTexture name="amarillo down0010" x="2472" y="329" width="618" height="329" frameX="-13" frameY="0" frameWidth="640" frameHeight="329"/>
+	<SubTexture name="amarillo down0011" x="2472" y="329" width="618" height="329" frameX="-13" frameY="0" frameWidth="640" frameHeight="329"/>
+	<SubTexture name="amarillo down0012" x="2472" y="329" width="618" height="329" frameX="-13" frameY="0" frameWidth="640" frameHeight="329"/>
+	<SubTexture name="amarillo down0013" x="2472" y="329" width="618" height="329" frameX="-13" frameY="0" frameWidth="640" frameHeight="329"/>
+	<SubTexture name="amarillo down0014" x="2472" y="329" width="618" height="329" frameX="-13" frameY="0" frameWidth="640" frameHeight="329"/>
+	<SubTexture name="amarillo down0015" x="2472" y="329" width="618" height="329" frameX="-13" frameY="0" frameWidth="640" frameHeight="329"/>
+	<SubTexture name="amarillo down0016" x="2472" y="329" width="618" height="329" frameX="-13" frameY="0" frameWidth="640" frameHeight="329"/>
+	<SubTexture name="amarillo down0017" x="2472" y="329" width="618" height="329" frameX="-13" frameY="0" frameWidth="640" frameHeight="329"/>
+	<SubTexture name="amarillo down0018" x="2472" y="329" width="618" height="329" frameX="-13" frameY="0" frameWidth="640" frameHeight="329"/>
+	<SubTexture name="amarillo down0019" x="2472" y="329" width="618" height="329" frameX="-13" frameY="0" frameWidth="640" frameHeight="329"/>
+	<SubTexture name="amarillo idle0000" x="3090" y="329" width="639" height="346" frameX="0" frameY="-13" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0001" x="0" y="675" width="631" height="348" frameX="-1" frameY="-11" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0002" x="631" y="675" width="624" height="349" frameX="-2" frameY="-10" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0003" x="1255" y="675" width="610" height="350" frameX="-5" frameY="-9" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0004" x="1865" y="675" width="596" height="352" frameX="-9" frameY="-7" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0005" x="2461" y="675" width="579" height="353" frameX="-19" frameY="-6" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0006" x="3040" y="675" width="562" height="354" frameX="-30" frameY="-5" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0007" x="0" y="1029" width="536" height="355" frameX="-46" frameY="-4" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0008" x="536" y="1029" width="531" height="357" frameX="-50" frameY="-2" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0009" x="1067" y="1029" width="525" height="358" frameX="-54" frameY="-1" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0010" x="1592" y="1029" width="520" height="359" frameX="-58" frameY="0" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0011" x="2112" y="1029" width="517" height="359" frameX="-60" frameY="0" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0012" x="2629" y="1029" width="514" height="359" frameX="-62" frameY="0" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0013" x="3143" y="1029" width="511" height="359" frameX="-64" frameY="0" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0014" x="0" y="1388" width="497" height="359" frameX="-73" frameY="0" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0015" x="497" y="1388" width="482" height="359" frameX="-82" frameY="0" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0016" x="979" y="1388" width="485" height="359" frameX="-80" frameY="0" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0017" x="1464" y="1388" width="489" height="359" frameX="-77" frameY="0" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0018" x="1953" y="1388" width="497" height="359" frameX="-73" frameY="0" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0019" x="2450" y="1388" width="504" height="359" frameX="-69" frameY="0" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0020" x="2954" y="1388" width="517" height="359" frameX="-61" frameY="0" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0021" x="3471" y="1388" width="531" height="359" frameX="-52" frameY="0" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0022" x="0" y="1747" width="548" height="359" frameX="-41" frameY="0" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0023" x="548" y="1747" width="559" height="359" frameX="-36" frameY="0" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0024" x="1107" y="1747" width="570" height="359" frameX="-31" frameY="0" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0025" x="1677" y="1747" width="582" height="359" frameX="-25" frameY="0" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0026" x="2259" y="1747" width="586" height="357" frameX="-24" frameY="-2" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0027" x="2845" y="1747" width="591" height="354" frameX="-22" frameY="-5" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0028" x="3436" y="1747" width="594" height="352" frameX="-21" frameY="-7" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo idle0029" x="0" y="2106" width="617" height="349" frameX="-10" frameY="-10" frameWidth="639" frameHeight="359"/>
+	<SubTexture name="amarillo left0000" x="617" y="2106" width="698" height="365" frameX="0" frameY="-12" frameWidth="767" frameHeight="377"/>
+	<SubTexture name="amarillo left0001" x="1315" y="2106" width="694" height="359" frameX="-22" frameY="-18" frameWidth="767" frameHeight="377"/>
+	<SubTexture name="amarillo left0002" x="2009" y="2106" width="690" height="364" frameX="-43" frameY="-13" frameWidth="767" frameHeight="377"/>
+	<SubTexture name="amarillo left0003" x="2699" y="2106" width="685" height="370" frameX="-65" frameY="-7" frameWidth="767" frameHeight="377"/>
+	<SubTexture name="amarillo left0004" x="3384" y="2106" width="681" height="377" frameX="-86" frameY="0" frameWidth="767" frameHeight="377"/>
+	<SubTexture name="amarillo left0005" x="0" y="2483" width="674" height="377" frameX="-91" frameY="0" frameWidth="767" frameHeight="377"/>
+	<SubTexture name="amarillo left0006" x="674" y="2483" width="672" height="377" frameX="-93" frameY="0" frameWidth="767" frameHeight="377"/>
+	<SubTexture name="amarillo left0007" x="1346" y="2483" width="670" height="377" frameX="-95" frameY="0" frameWidth="767" frameHeight="377"/>
+	<SubTexture name="amarillo left0008" x="1346" y="2483" width="670" height="377" frameX="-95" frameY="0" frameWidth="767" frameHeight="377"/>
+	<SubTexture name="amarillo left0009" x="1346" y="2483" width="670" height="377" frameX="-95" frameY="0" frameWidth="767" frameHeight="377"/>
+	<SubTexture name="amarillo left0010" x="1346" y="2483" width="670" height="377" frameX="-95" frameY="0" frameWidth="767" frameHeight="377"/>
+	<SubTexture name="amarillo left0011" x="1346" y="2483" width="670" height="377" frameX="-95" frameY="0" frameWidth="767" frameHeight="377"/>
+	<SubTexture name="amarillo left0012" x="1346" y="2483" width="670" height="377" frameX="-95" frameY="0" frameWidth="767" frameHeight="377"/>
+	<SubTexture name="amarillo left0013" x="1346" y="2483" width="670" height="377" frameX="-95" frameY="0" frameWidth="767" frameHeight="377"/>
+	<SubTexture name="amarillo left0014" x="1346" y="2483" width="670" height="377" frameX="-95" frameY="0" frameWidth="767" frameHeight="377"/>
+	<SubTexture name="amarillo left0015" x="1346" y="2483" width="670" height="377" frameX="-95" frameY="0" frameWidth="767" frameHeight="377"/>
+	<SubTexture name="amarillo left0016" x="1346" y="2483" width="670" height="377" frameX="-95" frameY="0" frameWidth="767" frameHeight="377"/>
+	<SubTexture name="amarillo left0017" x="1346" y="2483" width="670" height="377" frameX="-95" frameY="0" frameWidth="767" frameHeight="377"/>
+	<SubTexture name="amarillo left0018" x="1346" y="2483" width="670" height="377" frameX="-95" frameY="0" frameWidth="767" frameHeight="377"/>
+	<SubTexture name="amarillo left0019" x="1346" y="2483" width="670" height="377" frameX="-95" frameY="0" frameWidth="767" frameHeight="377"/>
+	<SubTexture name="amarillo right0000" x="2016" y="2483" width="468" height="357" frameX="-1" frameY="-48" frameWidth="497" frameHeight="405"/>
+	<SubTexture name="amarillo right0001" x="2484" y="2483" width="483" height="369" frameX="0" frameY="-36" frameWidth="497" frameHeight="405"/>
+	<SubTexture name="amarillo right0002" x="2967" y="2483" width="495" height="380" frameX="0" frameY="-25" frameWidth="497" frameHeight="405"/>
+	<SubTexture name="amarillo right0003" x="3462" y="2483" width="496" height="392" frameX="0" frameY="-13" frameWidth="497" frameHeight="405"/>
+	<SubTexture name="amarillo right0004" x="0" y="2875" width="497" height="404" frameX="0" frameY="-1" frameWidth="497" frameHeight="405"/>
+	<SubTexture name="amarillo right0005" x="497" y="2875" width="497" height="405"/>
+	<SubTexture name="amarillo right0006" x="497" y="2875" width="497" height="405"/>
+	<SubTexture name="amarillo right0007" x="497" y="2875" width="497" height="405"/>
+	<SubTexture name="amarillo right0008" x="497" y="2875" width="497" height="405"/>
+	<SubTexture name="amarillo right0009" x="497" y="2875" width="497" height="405"/>
+	<SubTexture name="amarillo right0010" x="497" y="2875" width="497" height="405"/>
+	<SubTexture name="amarillo right0011" x="497" y="2875" width="497" height="405"/>
+	<SubTexture name="amarillo right0012" x="497" y="2875" width="497" height="405"/>
+	<SubTexture name="amarillo right0013" x="497" y="2875" width="497" height="405"/>
+	<SubTexture name="amarillo right0014" x="497" y="2875" width="497" height="405"/>
+	<SubTexture name="amarillo right0015" x="497" y="2875" width="497" height="405"/>
+	<SubTexture name="amarillo right0016" x="497" y="2875" width="497" height="405"/>
+	<SubTexture name="amarillo right0017" x="497" y="2875" width="497" height="405"/>
+	<SubTexture name="amarillo right0018" x="497" y="2875" width="497" height="405"/>
+	<SubTexture name="amarillo right0019" x="497" y="2875" width="497" height="405"/>
+	<SubTexture name="amarillo up0000" x="994" y="2875" width="551" height="429" frameX="-42" frameY="0" frameWidth="593" frameHeight="429"/>
+	<SubTexture name="amarillo up0001" x="1545" y="2875" width="542" height="419" frameX="-39" frameY="-9" frameWidth="593" frameHeight="429"/>
+	<SubTexture name="amarillo up0002" x="2087" y="2875" width="552" height="418" frameX="-26" frameY="-10" frameWidth="593" frameHeight="429"/>
+	<SubTexture name="amarillo up0003" x="2639" y="2875" width="561" height="422" frameX="-13" frameY="-5" frameWidth="593" frameHeight="429"/>
+	<SubTexture name="amarillo up0004" x="3200" y="2875" width="569" height="427" frameX="0" frameY="0" frameWidth="593" frameHeight="429"/>
+	<SubTexture name="amarillo up0005" x="0" y="3304" width="569" height="427" frameX="0" frameY="0" frameWidth="593" frameHeight="429"/>
+	<SubTexture name="amarillo up0006" x="0" y="3304" width="569" height="427" frameX="0" frameY="0" frameWidth="593" frameHeight="429"/>
+	<SubTexture name="amarillo up0007" x="0" y="3304" width="569" height="427" frameX="0" frameY="0" frameWidth="593" frameHeight="429"/>
+	<SubTexture name="amarillo up0008" x="0" y="3304" width="569" height="427" frameX="0" frameY="0" frameWidth="593" frameHeight="429"/>
+	<SubTexture name="amarillo up0009" x="0" y="3304" width="569" height="427" frameX="0" frameY="0" frameWidth="593" frameHeight="429"/>
+	<SubTexture name="amarillo up0010" x="0" y="3304" width="569" height="427" frameX="0" frameY="0" frameWidth="593" frameHeight="429"/>
+	<SubTexture name="amarillo up0011" x="0" y="3304" width="569" height="427" frameX="0" frameY="0" frameWidth="593" frameHeight="429"/>
+	<SubTexture name="amarillo up0012" x="0" y="3304" width="569" height="427" frameX="0" frameY="0" frameWidth="593" frameHeight="429"/>
+	<SubTexture name="amarillo up0013" x="0" y="3304" width="569" height="427" frameX="0" frameY="0" frameWidth="593" frameHeight="429"/>
+	<SubTexture name="amarillo up0014" x="0" y="3304" width="569" height="427" frameX="0" frameY="0" frameWidth="593" frameHeight="429"/>
+	<SubTexture name="amarillo up0015" x="0" y="3304" width="569" height="427" frameX="0" frameY="0" frameWidth="593" frameHeight="429"/>
+	<SubTexture name="amarillo up0016" x="0" y="3304" width="569" height="427" frameX="0" frameY="0" frameWidth="593" frameHeight="429"/>
+	<SubTexture name="amarillo up0017" x="0" y="3304" width="569" height="427" frameX="0" frameY="0" frameWidth="593" frameHeight="429"/>
+	<SubTexture name="amarillo up0018" x="0" y="3304" width="569" height="427" frameX="0" frameY="0" frameWidth="593" frameHeight="429"/>
+	<SubTexture name="amarillo up0019" x="0" y="3304" width="569" height="427" frameX="0" frameY="0" frameWidth="593" frameHeight="429"/>
+</TextureAtlas>

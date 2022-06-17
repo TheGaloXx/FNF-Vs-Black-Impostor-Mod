@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="voidnaranja.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name=" naranjaa0000" x="0" y="0" width="241" height="310" frameX="0" frameY="-3" frameWidth="243" frameHeight="313"/>
+	<SubTexture name=" naranjaa0001" x="0" y="0" width="241" height="310" frameX="0" frameY="-3" frameWidth="243" frameHeight="313"/>
+	<SubTexture name=" naranjaa0002" x="241" y="0" width="241" height="311" frameX="-1" frameY="0" frameWidth="243" frameHeight="313"/>
+	<SubTexture name=" naranjaa0003" x="241" y="0" width="241" height="311" frameX="-1" frameY="0" frameWidth="243" frameHeight="313"/>
+	<SubTexture name=" naranjaa0004" x="482" y="0" width="243" height="311" frameX="0" frameY="-1" frameWidth="243" frameHeight="313"/>
+	<SubTexture name=" naranjaa0005" x="482" y="0" width="243" height="311" frameX="0" frameY="-1" frameWidth="243" frameHeight="313"/>
+</TextureAtlas>

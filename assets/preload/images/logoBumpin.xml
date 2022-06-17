@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logoBumpin.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logo bumpin impostor0000" x="0" y="0" width="867" height="723" frameX="-13" frameY="-9" frameWidth="893" frameHeight="742"/>
+	<SubTexture name="logo bumpin impostor0001" x="867" y="0" width="893" height="742"/>
+	<SubTexture name="logo bumpin impostor0002" x="867" y="0" width="893" height="742"/>
+	<SubTexture name="logo bumpin impostor0003" x="0" y="742" width="889" height="737" frameX="-2" frameY="-2" frameWidth="893" frameHeight="742"/>
+	<SubTexture name="logo bumpin impostor0004" x="0" y="742" width="889" height="737" frameX="-2" frameY="-2" frameWidth="893" frameHeight="742"/>
+	<SubTexture name="logo bumpin impostor0005" x="889" y="742" width="889" height="738" frameX="-2" frameY="-2" frameWidth="893" frameHeight="742"/>
+	<SubTexture name="logo bumpin impostor0006" x="889" y="742" width="889" height="738" frameX="-2" frameY="-2" frameWidth="893" frameHeight="742"/>
+	<SubTexture name="logo bumpin impostor0007" x="889" y="742" width="889" height="738" frameX="-2" frameY="-2" frameWidth="893" frameHeight="742"/>
+	<SubTexture name="logo bumpin impostor0008" x="889" y="742" width="889" height="738" frameX="-2" frameY="-2" frameWidth="893" frameHeight="742"/>
+	<SubTexture name="logo bumpin impostor0009" x="889" y="742" width="889" height="738" frameX="-2" frameY="-2" frameWidth="893" frameHeight="742"/>
+	<SubTexture name="logo bumpin impostor0010" x="889" y="742" width="889" height="738" frameX="-2" frameY="-2" frameWidth="893" frameHeight="742"/>
+	<SubTexture name="logo bumpin impostor0011" x="889" y="742" width="889" height="738" frameX="-2" frameY="-2" frameWidth="893" frameHeight="742"/>
+	<SubTexture name="logo bumpin impostor0012" x="889" y="742" width="889" height="738" frameX="-2" frameY="-2" frameWidth="893" frameHeight="742"/>
+	<SubTexture name="logo bumpin impostor0013" x="889" y="742" width="889" height="738" frameX="-2" frameY="-2" frameWidth="893" frameHeight="742"/>
+	<SubTexture name="logo bumpin impostor0014" x="889" y="742" width="889" height="738" frameX="-2" frameY="-2" frameWidth="893" frameHeight="742"/>
+</TextureAtlas>

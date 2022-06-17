@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blackinicio.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="black idle0000" x="0" y="0" width="890" height="508" frameX="-21" frameY="0" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black idle0001" x="890" y="0" width="890" height="505" frameX="-23" frameY="-3" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black idle0002" x="1780" y="0" width="889" height="500" frameX="-26" frameY="-8" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black idle0003" x="2669" y="0" width="890" height="500" frameX="-34" frameY="-8" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black idle0004" x="3559" y="0" width="893" height="489" frameX="-41" frameY="-19" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black idle0005" x="4452" y="0" width="893" height="489" frameX="-43" frameY="-19" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black idle0006" x="5345" y="0" width="894" height="496" frameX="-44" frameY="-12" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black idle0007" x="6239" y="0" width="887" height="500" frameX="-38" frameY="-8" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black idle0008" x="7126" y="0" width="880" height="501" frameX="-31" frameY="-7" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black idle0009" x="0" y="508" width="870" height="501" frameX="-25" frameY="-7" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black idle0010" x="870" y="508" width="858" height="496" frameX="-20" frameY="-12" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black idle0011" x="1728" y="508" width="848" height="493" frameX="-13" frameY="-15" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black idle0012" x="2576" y="508" width="838" height="491" frameX="-6" frameY="-17" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black idle0013" x="3414" y="508" width="836" height="487" frameX="-3" frameY="-21" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black idle0014" x="4250" y="508" width="833" height="485" frameX="0" frameY="-23" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black idle0015" x="5083" y="508" width="834" height="490" frameX="-2" frameY="-18" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black idle0016" x="5917" y="508" width="836" height="497" frameX="-3" frameY="-11" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black idle0017" x="6753" y="508" width="840" height="497" frameX="-8" frameY="-11" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black idle0018" x="0" y="1009" width="854" height="497" frameX="-13" frameY="-11" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black idle0019" x="854" y="1009" width="861" height="501" frameX="-17" frameY="-7" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black sacar cuchillo0000" x="0" y="0" width="890" height="508" frameX="-30" frameY="0" frameWidth="938" frameHeight="508"/>
+	<SubTexture name="black sacar cuchillo0001" x="1715" y="1009" width="883" height="503" frameX="-60" frameY="-5" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0002" x="2598" y="1009" width="872" height="495" frameX="-90" frameY="-13" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0003" x="3470" y="1009" width="856" height="488" frameX="-122" frameY="-20" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0004" x="4326" y="1009" width="835" height="479" frameX="-157" frameY="-29" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0005" x="5161" y="1009" width="807" height="467" frameX="-192" frameY="-41" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0006" x="5968" y="1009" width="770" height="463" frameX="-228" frameY="-45" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0007" x="6738" y="1009" width="735" height="463" frameX="-263" frameY="-45" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0008" x="7473" y="1009" width="715" height="463" frameX="-283" frameY="-45" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0009" x="0" y="1512" width="720" height="473" frameX="-283" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0010" x="0" y="1512" width="720" height="473" frameX="-283" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0011" x="720" y="1512" width="757" height="473" frameX="-246" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0012" x="1477" y="1512" width="843" height="473" frameX="-160" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0013" x="2320" y="1512" width="932" height="488" frameX="-71" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0014" x="3252" y="1512" width="956" height="473" frameX="-47" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0015" x="4208" y="1512" width="979" height="473" frameX="-24" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0016" x="5187" y="1512" width="1003" height="473" frameX="0" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0017" x="6190" y="1512" width="1001" height="473" frameX="-2" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0018" x="6190" y="1512" width="1001" height="473" frameX="-2" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0019" x="6190" y="1512" width="1001" height="473" frameX="-2" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0020" x="6190" y="1512" width="1001" height="473" frameX="-2" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0021" x="6190" y="1512" width="1001" height="473" frameX="-2" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0022" x="6190" y="1512" width="1001" height="473" frameX="-2" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0023" x="6190" y="1512" width="1001" height="473" frameX="-2" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0024" x="6190" y="1512" width="1001" height="473" frameX="-2" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0025" x="6190" y="1512" width="1001" height="473" frameX="-2" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0026" x="6190" y="1512" width="1001" height="473" frameX="-2" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0027" x="6190" y="1512" width="1001" height="473" frameX="-2" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0028" x="6190" y="1512" width="1001" height="473" frameX="-2" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0029" x="6190" y="1512" width="1001" height="473" frameX="-2" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0030" x="6190" y="1512" width="1001" height="473" frameX="-2" frameY="-35" frameWidth="1003" frameHeight="523"/>
+	<SubTexture name="black sacar cuchillo0031" x="6190" y="1512" width="1001" height="473" frameX="-2" frameY="-35" frameWidth="1003" frameHeight="523"/>
+</TextureAtlas>

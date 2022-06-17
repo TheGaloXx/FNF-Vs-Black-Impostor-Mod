@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="voidamarillo.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="amarillo0000" x="0" y="0" width="661" height="910" frameX="-4" frameY="0" frameWidth="665" frameHeight="910"/>
+	<SubTexture name="amarillo0001" x="0" y="0" width="661" height="910" frameX="-4" frameY="0" frameWidth="665" frameHeight="910"/>
+	<SubTexture name="amarillo0002" x="661" y="0" width="661" height="909" frameX="0" frameY="-1" frameWidth="665" frameHeight="910"/>
+	<SubTexture name="amarillo0003" x="661" y="0" width="661" height="909" frameX="0" frameY="-1" frameWidth="665" frameHeight="910"/>
+	<SubTexture name="amarillo0004" x="1322" y="0" width="659" height="908" frameX="0" frameY="-2" frameWidth="665" frameHeight="910"/>
+	<SubTexture name="amarillo0005" x="1322" y="0" width="659" height="908" frameX="0" frameY="-2" frameWidth="665" frameHeight="910"/>
+</TextureAtlas>

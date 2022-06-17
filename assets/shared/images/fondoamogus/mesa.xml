@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mesa.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mesa0000" x="0" y="0" width="2695" height="1203" frameX="0" frameY="-26" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0001" x="2695" y="0" width="2695" height="1212" frameX="0" frameY="-17" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0002" x="5390" y="0" width="2695" height="1218" frameX="0" frameY="-11" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0003" x="0" y="1218" width="2695" height="1223" frameX="0" frameY="-6" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0004" x="2695" y="1218" width="2695" height="1226" frameX="0" frameY="-3" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0005" x="5390" y="1218" width="2695" height="1228" frameX="0" frameY="-1" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0006" x="0" y="2446" width="2695" height="1229"/>
+	<SubTexture name="mesa0007" x="2695" y="2446" width="2695" height="1229"/>
+	<SubTexture name="mesa0008" x="5390" y="2446" width="2695" height="1229"/>
+	<SubTexture name="mesa0009" x="5390" y="2446" width="2695" height="1229"/>
+	<SubTexture name="mesa0010" x="5390" y="2446" width="2695" height="1229"/>
+	<SubTexture name="mesa0011" x="5390" y="2446" width="2695" height="1229"/>
+	<SubTexture name="mesa0012" x="5390" y="2446" width="2695" height="1229"/>
+	<SubTexture name="mesa0013" x="5390" y="2446" width="2695" height="1229"/>
+	<SubTexture name="mesa0014" x="5390" y="2446" width="2695" height="1229"/>
+	<SubTexture name="mesa0015" x="5390" y="2446" width="2695" height="1229"/>
+	<SubTexture name="mesa0016" x="5390" y="2446" width="2695" height="1229"/>
+	<SubTexture name="mesa0017" x="5390" y="2446" width="2695" height="1229"/>
+	<SubTexture name="mesa0018" x="0" y="3675" width="2695" height="1193" frameX="0" frameY="-36" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0019" x="2695" y="3675" width="2695" height="1204" frameX="0" frameY="-25" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0020" x="5390" y="3675" width="2695" height="1213" frameX="0" frameY="-16" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0021" x="0" y="4888" width="2695" height="1219" frameX="0" frameY="-10" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0022" x="2695" y="4888" width="2695" height="1223" frameX="0" frameY="-6" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0023" x="5390" y="4888" width="2695" height="1225" frameX="0" frameY="-4" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0024" x="0" y="6113" width="2695" height="1227" frameX="0" frameY="-2" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0025" x="2695" y="6113" width="2695" height="1227" frameX="0" frameY="-2" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0026" x="5390" y="6113" width="2695" height="1227" frameX="0" frameY="-2" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0027" x="5390" y="6113" width="2695" height="1227" frameX="0" frameY="-2" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0028" x="5390" y="6113" width="2695" height="1227" frameX="0" frameY="-2" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0029" x="5390" y="6113" width="2695" height="1227" frameX="0" frameY="-2" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0030" x="5390" y="6113" width="2695" height="1227" frameX="0" frameY="-2" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0031" x="5390" y="6113" width="2695" height="1227" frameX="0" frameY="-2" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0032" x="5390" y="6113" width="2695" height="1227" frameX="0" frameY="-2" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0033" x="5390" y="6113" width="2695" height="1227" frameX="0" frameY="-2" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0034" x="5390" y="6113" width="2695" height="1227" frameX="0" frameY="-2" frameWidth="2695" frameHeight="1229"/>
+	<SubTexture name="mesa0035" x="5390" y="6113" width="2695" height="1227" frameX="0" frameY="-2" frameWidth="2695" frameHeight="1229"/>
+</TextureAtlas>
